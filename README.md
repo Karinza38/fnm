@@ -1,4 +1,4 @@
-<h1 align="center">
+ <h1 align="center">
   Fast Node Manager (<code>fnm</code>)
   <img alt="Amount of downloads" src="https://img.shields.io/github/downloads/Schniz/fnm/total.svg?style=flat" />
   <a href="https://github.com/Schniz/fnm/actions"><img src="https://img.shields.io/github/actions/workflow/status/Schniz/fnm/rust.yml?branch=master&label=workflow" alt="GitHub Actions workflow status" /></a>
